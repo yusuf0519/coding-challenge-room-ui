@@ -1,0 +1,11 @@
+.room-cards {
+  margin-right: 10px;
+}
+
+.row {
+  --bs-gutter-x: 0 !important;
+}
+
+.main-heading {
+  text-align: center;
+}
